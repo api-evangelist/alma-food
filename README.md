@@ -1,4 +1,4 @@
-# alma-food
+# Alma
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-alma-food is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://alma.food/
+Alma is an AI‑powered nutrition coach and food tracking platform that helps users understand the impact of every meal on their health goals. The service offers personalized meal logging, goal‑based recommendations, and a conversational interface that answers nutrition questions. Alma provides plans for weight loss, muscle building, sport performance, and overall health, integrating with health data and offering insights through its web and mobile apps.
+
+**Areas:** Nutrition · AI · Health · FoodTracking · Personalization · Company
+
+## Alma on APIs.io
+
+Everything profiled for Alma is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alma-food/](https://apis.io/providers/alma-food/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Alma Discovery API](https://apis.io/apis/alma-food/alma-food-discovery-api/) — Public files agents should fetch first
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Alma Food Agentic Access](https://apis.io/agentic-access/alma-food/alma-food-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Alma API Rules](https://apis.io/rules/alma-food/alma-food-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Alma Food Authentication](https://apis.io/security/alma-food/alma-food-authentication/)
+- [Alma Food Domain Security](https://apis.io/security/alma-food/alma-food-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Alma Food Scopes](https://apis.io/scopes/alma-food/alma-food-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://alma.food/)
+- [Documentation](https://www.alma.food/help)
+- [API reference](https://www.alma.food/developers)
+- [Support](https://www.alma.food/contact)
+- [Blog](https://www.alma.food/blog)
+- [Privacy policy](https://www.alma.food/privacy-and-terms)
+
+## API Evangelist rating
+
+**Kin Score 37.8** — thin · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 40.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 10.5 |
+
+**Agent readiness 45.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 27.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alma-food/](https://apis.io/providers/alma-food/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Alma: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alma-food/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
